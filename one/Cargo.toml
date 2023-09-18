@@ -1,9 +1,10 @@
 [package]
 name = "code-maven-experiment-one"
-version = "0.1.0"
+version.workspace = true
 edition = "2021"
 description = "Experimental crate"
 license.workspace = true
+reposity.workspace = true
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
