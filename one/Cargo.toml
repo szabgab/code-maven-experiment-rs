@@ -4,7 +4,8 @@ version.workspace = true
 edition = "2021"
 description = "Experimental crate"
 license.workspace = true
-reposity.workspace = true
+reposity.workspace = true   # cargo did not complain about incorrect keyword that also does not exist in central Cargo.toml
+repository.workspace = true
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
